@@ -1,0 +1,32 @@
+{
+  "name": "kinozal_modules",
+  "version": "1.0.0",
+  "description": "\u0016Here is a small tutorial project from the course \"Front-end development for beginners\"",
+  "main": "scripts/app,js\u001b[D\u001b[.\u001b[C\u001b[C",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch-css": "sass --watch scss/style.scss css/style.css",
+    "serve": "serve",
+    "start": "npm-run-all --parallel serve watch-css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/starodubs/kinozal_modules.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "author": "Stanislav Starodub",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/starodubs/kinozal_modules/issues"
+  },
+  "homepage": "https://github.com/starodubs/kinozal_modules#readme",
+  "devDependencies": {
+    "npm-run-all": "^4.1.5",
+    "sass": "^1.55.0",
+    "serve": "^14.0.1"
+  }
+}
