@@ -6,3 +6,5 @@ To use this project as is, first clone the repo from Github, then run:
 - $ npm install
 - $ npm run start
 - $ open http://localhost:3000 in your browser
+
+### Or you can see it [here](https://starodubs-kinozal.web.app) on Firebase service
